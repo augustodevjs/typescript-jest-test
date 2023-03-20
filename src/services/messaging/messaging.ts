@@ -1,4 +1,4 @@
-import { MessagingProtocol } from '../classes/interfaces';
+import { MessagingProtocol } from '../../interfaces';
 
 export class Messaging implements MessagingProtocol {
   sendMessage(msg: string): void {

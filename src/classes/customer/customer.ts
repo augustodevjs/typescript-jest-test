@@ -2,7 +2,7 @@ import {
   CustomerOrder,
   EnterpriseCustomerProtocol,
   IndividualCustomerProtocol,
-} from './interfaces';
+} from '../../interfaces';
 
 export class IndividualCustomer
   implements IndividualCustomerProtocol, CustomerOrder

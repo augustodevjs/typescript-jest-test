@@ -1,4 +1,4 @@
-import { PersistencyProtocol } from '../classes/interfaces';
+import { PersistencyProtocol } from '../../interfaces';
 
 export class Persistency implements PersistencyProtocol {
   saveOrder(): void {

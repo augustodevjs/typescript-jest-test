@@ -4,7 +4,7 @@ import {
   OrderStatus,
   PersistencyProtocol,
   ShoppingCartProtocol,
-} from './interfaces';
+} from '../../interfaces';
 
 export class Order {
   private _orderStatus: OrderStatus = 'open';
