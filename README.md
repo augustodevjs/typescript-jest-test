@@ -1,11 +1,11 @@
-## TDD com typescript
+## TDD with TypeScript
 
-Este é um projeto que simula um carrinho de compras, seguindo os princípios do SOLID. O SOLID é um conjunto de princípios de programação orientada a objetos que ajudam a criar um código mais limpo, modular e fácil de manter.
+This is a project that simulates a shopping cart, following the principles of SOLID. SOLID is a set of principles in object-oriented programming that help create cleaner, more modular, and easier-to-maintain code.
 
-No projeto, foram implementadas diversas classes, tais como Customer, Discount, Order, Product e Shopping Cart. Essas classes são responsáveis por diferentes partes do carrinho de compras, como gerenciamento de clientes, produtos, pedidos e descontos.
+In this project, several classes have been implemented, such as Customer, Discount, Order, Product, and Shopping Cart. These classes are responsible for different parts of the shopping cart, such as managing customers, products, orders, and discounts.
 
-Para garantir a qualidade do código, foram adicionados testes automatizados utilizando o Jest e a metodologia de desenvolvimento orientada a testes (TDD). Isso significa que, antes mesmo de implementar uma nova funcionalidade, foram criados testes para garantir que ela funcionasse corretamente. Essa abordagem reduz o risco de erros e aumenta a confiança no código.
+To ensure code quality, automated tests have been added using Jest and the Test-Driven Development (TDD) methodology. This means that even before implementing a new feature, tests were created to ensure that it worked correctly. This approach reduces the risk of errors and increases confidence in the code.
 
-Além disso, foi realizado o teste coverage para avaliar a cobertura de testes e garantir que todas as partes do código estavam sendo testadas. Com uma cobertura de testes de 100%, podemos ter alta confiança na qualidade do código.
+Additionally, test coverage was performed to assess the extent of test coverage and ensure that all parts of the code were being tested. With a test coverage of 100%, we can have high confidence in the code quality.
 
-Em resumo, este projeto é um excelente exemplo de como seguir os princípios do SOLID e adicionar testes automatizados para garantir a qualidade do código. Através dessa abordagem, podemos criar um código mais limpo, modular e fácil de manter, além de reduzir o risco de erros e aumentar a confiança no projeto.
+In summary, this project is an excellent example of how to follow the principles of SOLID and add automated tests to ensure code quality. Through this approach, we can create cleaner, more modular, and easier-to-maintain code, while reducing the risk of errors and increasing confidence in the project.
